@@ -1,2 +1,2 @@
-# MultipleTables-Material
-Multiple MatTables with Pagination and MatSort
+# Multiple_MatTableExample
+Multiple MatTbales with Pagination and MatSort
